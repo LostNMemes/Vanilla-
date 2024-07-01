@@ -35,7 +35,7 @@
 21. **HuskHomes**
     - **Description**: Manages home and warp commands on servers.
     - **Commands**:
-        - Home commands are detailed at [HuskHomes Commands](https://modrinth.com/plugin/huskhomes/versions)
+        - Home commands are detailed at [HuskHomes Commands](https://william278.net/docs/huskhomes/commands)
 22. **Inventorio**
     - **Description**: Transforms inventory management by introducing a dedicated toolbelt for tools and a utility belt for dual wielding blocks or items. Increases Ender Chest capacity and modifies Infinity Bow and Totems of Undying functionality.
     - **More Info**: [Inventorio on Modrinth](https://modrinth.com/mod/inventorio)
